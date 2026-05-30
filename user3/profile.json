@@ -1,7 +1,7 @@
 {
-  "coins": 50,
+  "coins": 55,
   "title": "Novice",
   "dailyCheckin": null,
   "checkinStreak": 0,
-  "totalPoints": 0
+  "totalPoints": 5
 }
