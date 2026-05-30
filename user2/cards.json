@@ -22,5 +22,29 @@
     "reviewCount": 0,
     "correctCount": 0,
     "nextReviewDate": "2026-05-30"
+  },
+  {
+    "question": "將函數 y = x² 向右平移3個單位，再向上平移2個單位，得到的解析式是什麼？這種變換有什麼意義？",
+    "answer": "得到的解析式為 y = (x-3)² + 2。這種平移變換能強化空間想像力，為後續學習圓錐曲線與物理拋體運動鋪路，並提升解決最優化、面積計算等實際問題的能力。",
+    "cardType": "general",
+    "tags": [
+      "AI文章"
+    ],
+    "id": "bb809e10-f8f4-4cec-a88f-ee2da768addf",
+    "reviewCount": 0,
+    "correctCount": 0,
+    "nextReviewDate": "2026-05-30"
+  },
+  {
+    "question": "二次函數 y = ax² + bx + c 的圖像是什麼？如何求得其頂點座標？",
+    "answer": "圖像是一條拋物線。頂點座標可透過配方求得，公式為 ( -b/(2a), (4ac-b²)/(4a) )，這能確定最大值或最小值，並揭示圖形的對稱性。",
+    "cardType": "general",
+    "tags": [
+      "AI文章"
+    ],
+    "id": "eef1a29a-c5c4-494d-8a03-750c9b0ba81f",
+    "reviewCount": 0,
+    "correctCount": 0,
+    "nextReviewDate": "2026-05-30"
   }
 ]
