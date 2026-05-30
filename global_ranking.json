@@ -1,10 +1,18 @@
 [
   {
+    "username": "user6",
+    "displayName": "學習者 6",
+    "coins": 170,
+    "totalPoints": 120,
+    "title": "學習萌新",
+    "lastUpdate": "2026-05-30T12:45:25.646Z"
+  },
+  {
     "username": "user2",
     "displayName": "Learner 2",
     "coins": 153,
     "totalPoints": 103,
-    "title": "Ã¥Â­Â¸Ã§Â¿ÂÃ¨ÂÂÃ¦ÂÂ°",
+    "title": "ÃÂ¥ÃÂ­ÃÂ¸ÃÂ§ÃÂ¿ÃÂÃÂ¨ÃÂÃÂÃÂ¦ÃÂÃÂ°",
     "lastUpdate": "2026-05-30T12:43:16.628Z"
   }
 ]
