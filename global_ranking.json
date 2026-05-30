@@ -1,2 +1,10 @@
 [
+  {
+    "username": "user2",
+    "displayName": "Learner 2",
+    "coins": 158,
+    "totalPoints": 108,
+    "title": "Novice",
+    "lastUpdate": "2026-05-30T14:05:08.352Z"
+  }
 ]
