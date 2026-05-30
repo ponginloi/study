@@ -6,5 +6,13 @@
     "totalPoints": 179,
     "title": "Novice",
     "lastUpdate": "2026-05-30T14:07:32.389Z"
+  },
+  {
+    "username": "user3",
+    "displayName": "Learner 3",
+    "coins": 50,
+    "totalPoints": 0,
+    "title": "Novice",
+    "lastUpdate": "2026-05-30T14:09:31.257Z"
   }
 ]
