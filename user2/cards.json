@@ -10,17 +10,5 @@
     "reviewCount": 3,
     "correctCount": 3,
     "nextReviewDate": "2026-06-02"
-  },
-  {
-    "question": "汤姆帮助老妇人后得到了什么回报？他从中明白了什么道理？",
-    "answer": "老妇人给了汤姆一杯热饮和一本英语故事书作为回报。汤姆明白了帮助他人可以带来快乐。",
-    "cardType": "general",
-    "tags": [
-      "AI文章"
-    ],
-    "id": "bd1b59fd-4728-49ab-affe-e27dd820b1f8",
-    "reviewCount": 0,
-    "correctCount": 0,
-    "nextReviewDate": "2026-05-30"
   }
 ]
