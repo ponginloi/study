@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "question": "汤姆在雨中遇到了谁？他做了什么？",
+    "answer": "汤姆遇到了一位拿着小包的老妇人。他看到老妇人又伤心又湿漉漉的，于是主动提出和她共用他的夹克来避雨。",
+    "cardType": "general",
+    "tags": [
+      "AI文章"
+    ],
+    "id": "c5dbbba4-239c-4b6e-bc91-42b063b321b7",
+    "reviewCount": 0,
+    "correctCount": 0,
+    "nextReviewDate": "2026-05-30"
+  }
+]
