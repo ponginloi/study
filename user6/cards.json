@@ -1,17 +1,5 @@
 [
   {
-    "question": "初中數學與小學數學的主要差異是什麼？",
-    "answer": "初中數學從小學的具體算術過渡到抽象代數，引入符號語言（如x、y代表未知數），並增加幾何證明與函數概念，強調邏輯推理與解題策略。",
-    "cardType": "general",
-    "tags": [
-      "AI文章"
-    ],
-    "id": "f0e9c276-3a8b-4bed-a69c-35f6e025c317",
-    "reviewCount": 0,
-    "correctCount": 0,
-    "nextReviewDate": "2026-05-30"
-  },
-  {
     "question": "解應用題的基本步驟是什麼？",
     "answer": "解應用題時，需先設未知數、列方程，再求解並驗證，這是從算術到代數的關鍵轉變。",
     "cardType": "general",
@@ -31,6 +19,18 @@
       "AI文章"
     ],
     "id": "32352692-cde3-4e17-9cfe-cc4d2bfa495d",
+    "reviewCount": 0,
+    "correctCount": 0,
+    "nextReviewDate": "2026-05-30"
+  },
+  {
+    "question": "解應用題時，應遵循哪些步驟？",
+    "answer": "解應用題時，需先設未知數、列方程，再求解並驗證，這個過程幫助學生理解代數的實際應用。",
+    "cardType": "general",
+    "tags": [
+      "AI文章"
+    ],
+    "id": "b1cdb47a-7414-4a2a-b0f2-0a1a1e2085f0",
     "reviewCount": 0,
     "correctCount": 0,
     "nextReviewDate": "2026-05-30"
