@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "question": "法國大革命開始於哪一年？",
+    "answer": "1789年",
+    "cardType": "general",
+    "tags": [
+      "AI Generated"
+    ],
+    "id": "75f3eb63-1687-4709-9840-62065e19a8c7",
+    "reviewCount": 0,
+    "correctCount": 0,
+    "nextReviewDate": "2026-05-30"
+  },
+  {
+    "question": "法國大革命期間，哪個著名的監獄被攻佔，象徵著革命的開始？",
+    "answer": "巴士底監獄",
+    "cardType": "general",
+    "tags": [
+      "AI Generated"
+    ],
+    "id": "e29fe48c-edfa-4572-a1a7-46e2585c5468",
+    "reviewCount": 0,
+    "correctCount": 0,
+    "nextReviewDate": "2026-05-30"
+  }
+]
