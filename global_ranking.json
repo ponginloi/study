@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "username": "user2",
+    "displayName": "Learner 2",
+    "coins": 89,
+    "totalPoints": 39,
+    "title": "學習萌新",
+    "lastUpdate": "2026-05-30T12:37:39.639Z"
+  }
+]
