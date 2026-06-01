@@ -19,6 +19,18 @@
       "AI文章"
     ],
     "id": "dbc9681f-8a9d-45d0-939d-d8e9728ee80b",
+    "reviewCount": 1,
+    "correctCount": 1,
+    "nextReviewDate": "2026-06-02"
+  },
+  {
+    "question": "Tom在树洞里找到了什么？",
+    "answer": "Tom找到了一个小盒子，里面有一张纸条，上面写着鼓励他帮助他人找到秘密的话。",
+    "cardType": "general",
+    "tags": [
+      "AI文章"
+    ],
+    "id": "0acddbdb-4824-49e9-a55b-c7f46b6ce0bf",
     "reviewCount": 0,
     "correctCount": 0,
     "nextReviewDate": "2026-06-01"
