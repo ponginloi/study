@@ -7,9 +7,9 @@
       "AIæç« "
     ],
     "id": "b1cdb47a-7414-4a2a-b0f2-0a1a1e2085f0",
-    "reviewCount": 3,
-    "correctCount": 3,
-    "nextReviewDate": "2026-06-04"
+    "reviewCount": 5,
+    "correctCount": 5,
+    "nextReviewDate": "2026-06-08"
   },
   {
     "question": "Tom在森林里发现了什么？",
@@ -31,6 +31,30 @@
       "AI文章"
     ],
     "id": "0acddbdb-4824-49e9-a55b-c7f46b6ce0bf",
+    "reviewCount": 0,
+    "correctCount": 0,
+    "nextReviewDate": "2026-06-01"
+  },
+  {
+    "question": "安娜在什么地方发现了那张旧的借书卡？",
+    "answer": "在一本二手书里，她翻到一张满是灰尘的旧卡。",
+    "cardType": "general",
+    "tags": [
+      "AI文章"
+    ],
+    "id": "51043ccf-7964-4951-a8f2-e07bf093fad7",
+    "reviewCount": 0,
+    "correctCount": 0,
+    "nextReviewDate": "2026-06-01"
+  },
+  {
+    "question": "借书卡的主人亨德森先生留下了什么信息？",
+    "answer": "他写道：“给发现者：读《沉默的花园》这本书，你会发现一个秘密。”",
+    "cardType": "general",
+    "tags": [
+      "AI文章"
+    ],
+    "id": "9263f230-8ff7-48ad-aec6-ac78567698a9",
     "reviewCount": 0,
     "correctCount": 0,
     "nextReviewDate": "2026-06-01"
